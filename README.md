@@ -9,5 +9,5 @@ It Contains
 * _Player_   
 * _sreateanderate_
 * _TheCalculator (main)_
-**2.Statastics**
+ **2.Statastics**
 
