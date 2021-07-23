@@ -5,7 +5,7 @@ The Project contains two packages
 
 It Containd
 
-*Player
+#*Player
 *sreateanderate
 *TheCalculator (main)
 
