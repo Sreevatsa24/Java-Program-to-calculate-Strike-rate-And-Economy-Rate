@@ -21,4 +21,19 @@ Files in Statastics are:-
 * __Stats__:-It Contains the interface Stats which contains the methods to calculate Strike rate and Economy Rate
 
 ### The Following Concepts of OOP with Java were Used in This project
+1. Abstraction- Classes.
+2. Declaring objects.
+3. Instance Variables of different data types.
+4. Constructors
+5. Methods.
+6. Use of 'this' keyword.
+7. Inheritance.
+8. Overloading of Methods
+9. Overriding of Methods.
+10. Objects as parameters.
+11. Access control mechanism.
+12. Use of 'super' keyword.
+13. Packages.
+14. Interfaces.
+15. Exception Handling.
 
