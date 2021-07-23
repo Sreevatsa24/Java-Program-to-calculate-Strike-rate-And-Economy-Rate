@@ -1,6 +1,7 @@
 # Java Program to calculate Strike rate And Economy Rate
 The Project contains two packages 
-<l>jjjii
+<\n> jjjii
+  
 **1.Cricket**
 
 It Contains
