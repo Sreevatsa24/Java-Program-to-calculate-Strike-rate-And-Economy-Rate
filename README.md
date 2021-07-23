@@ -7,7 +7,7 @@ Files in Cricket are:-
 
 * __Player__:-Contains Details of the Player   
 * __sreateanderate__:-Contains User Defined methods calculate the statastics
-* __TheCalculator__:-Its has the main part of the code Whoch excecutes the program using objects of different classes
+* __TheCalculator__:-Its has the main part of the code Which excecutes the program using objects of different classes
 
 **2.Statastics**
 
