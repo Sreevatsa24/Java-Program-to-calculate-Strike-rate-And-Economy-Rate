@@ -16,5 +16,6 @@ Files in Statastics are:-
 * __Stats__:-It Contains the interface Stats which contains the methods to calculate Strike rate and Economy Rate
 
 ## Description
-The Project is Simple Java Program Which Calculates the Strike and Economy rate of Cricketers by tahing the input from the user.User Defined Methods are used to carry out the Calculation.
+Quite Often it is Observed that some people who follow cricket do not Understand the simple concept of Strike Rate and Economy Rate and often ignore it.So in Order make the Calculation Process Simpler i tried to write a Java code for it.
+This Project is Simple Java Program Which Calculates the Strike and Economy rate of Cricketers by taking the input from the user.User Defined Methods are used to carry out the Calculation.
 
