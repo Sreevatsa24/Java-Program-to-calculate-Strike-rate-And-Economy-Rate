@@ -4,9 +4,9 @@ The Project contains two packages
 
 **1.Cricket**
 
-It Containd
+It Contains
 
-_Player_
-_sreateanderate_
-_TheCalculator (main)_
+* _Player_   
+* _sreateanderate_
+* _TheCalculator (main)_
 
