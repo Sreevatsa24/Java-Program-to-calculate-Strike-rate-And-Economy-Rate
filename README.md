@@ -37,7 +37,7 @@ Files in Statastics are:-
 14. Interfaces.
 15. Exception Handling.
 
-####Concepts Left Out
+#### Concepts Left Out
 
 I was Unable to Use the Concept of __Threads__ because while writing the code i was not able to find a effective way to implemnt it in my code which would improve the quality of the code.However,it can just be used to display a "goodbye" or "thank you" messege at the end.
 
