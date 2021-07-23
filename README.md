@@ -5,15 +5,15 @@ The Project contains two packages
 
 Files in Cricket are:-
 
-* _Player_:-Contains Details of the Player   
-* _sreateanderate_:-Contains User Defined methods calculate the statastics
-* _TheCalculator_:-Its has the main part of the code Whoch excecutes the program using objects of different classes
+* __Player__:-Contains Details of the Player   
+* __sreateanderate__:-Contains User Defined methods calculate the statastics
+* __TheCalculator__:-Its has the main part of the code Whoch excecutes the program using objects of different classes
 
 **2.Statastics**
 
-It Contains
+Files in Statastics are:-
 
-* _Stats_
+* __Stats__:=It Contains the interface Stats which contains the methods to calculate Strike rate and Economy Rate
 
 ## Description
 The Project is Simple Java Program Which Calculates the Strike and Economy rate of Cricketers by tahing the input from the user.User Defined Methods are used to carry out the Calculation.
