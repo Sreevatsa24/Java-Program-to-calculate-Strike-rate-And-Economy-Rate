@@ -20,3 +20,5 @@ Files in Statastics are:-
 
 * __Stats__:-It Contains the interface Stats which contains the methods to calculate Strike rate and Economy Rate
 
+###The Following Concepts of OOP with Java were Used in This project
+
