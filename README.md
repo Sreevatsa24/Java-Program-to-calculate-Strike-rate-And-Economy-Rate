@@ -16,4 +16,5 @@ It Contains
 * _Stats_
 
 ## Description
-The Project is Simple Java Program Which Calculates the Strike and Economy rate of Cricketers by tahing the input from the user.
+The Project is Simple Java Program Which Calculates the Strike and Economy rate of Cricketers by tahing the input from the user.User Defined Methods are used to carry out the Calculation.
+
