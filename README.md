@@ -15,5 +15,5 @@ It Contains
 
 * _Stats_
 
-
+## Description
 The Project is Simple Java Program Which Calculates the strike and Economy rate of Cricketers
