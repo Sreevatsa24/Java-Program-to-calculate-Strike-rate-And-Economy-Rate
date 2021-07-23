@@ -3,11 +3,11 @@ The Project contains two packages
   
 **1.Cricket**
 
-It Contains
+Files in Cricket are:-
 
-* _Player_   
-* _sreateanderate_
-* _TheCalculator (main)_ 
+* _Player_:-Contains Details of the Player   
+* _sreateanderate_:-Contains User Defined methods calculate the statastics
+* _TheCalculator_:-Its has the main part of the code Whoch excecutes the program using objects of different classes
 
 **2.Statastics**
 
