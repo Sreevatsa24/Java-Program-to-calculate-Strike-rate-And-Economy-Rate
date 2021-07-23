@@ -1,4 +1,2 @@
-# Java-Program-to-calculate-Strike-rate-And-Economy-Rate
-SRwrghwr
+# Java Program to calculate Strike rate And Economy Rate
 
-*sssee
